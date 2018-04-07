@@ -1,0 +1,74 @@
+.cabecalho {
+
+	background-color: #0099ff;
+	color: 	#ffffff;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+.bloco-curso {
+	color: #999999;
+}
+
+.name-curso {
+	font-style: initial;
+	color: #000000;
+}
+.rodape-bloco, {
+	border-top: 1px solid #ddd;
+	padding-top: 5%;
+}
+div.bloco-top { 
+    background-color: #0099ff; 
+    color: #ffffff;
+}
+
+.jumbotron { 
+    background-color: #0099ff; 
+    color: #ffffff;
+}
+
+div.absolute {
+    position: absolute;
+    top: 50%;
+    left: 21%;
+    background-color: #ffffff; 
+    border: 1px solid #ddd;
+}
+
+div.absolute-off {
+    margin-top: 5px;
+    background-color: #ffffff;
+    border: 0px solid #fff; 
+}
+
+.title-prin{
+	display: none;
+}
+
+.bloco-prin{
+	display: none;
+}
+
+.title-detalhe {
+	margin-top: -1%;
+	display: block;
+}
+.botao-isc{
+	margin-bottom: 5%;
+	color: #000000;
+}
+.bloco-curso-det {
+	color: #999999;
+}
+.title-prin2{
+	display: none;
+}
+.title-prin{
+	display: block;
+
+}
